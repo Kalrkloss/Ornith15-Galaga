@@ -4,6 +4,9 @@ A self-contained arcade reimagining of the classic 1981 **Galaga** space shooter
 built with vanilla JavaScript and the HTML5 Canvas. No build tools, no dependencies,
 no server required.
 
+screenshot.png
+
+
 ## Play
 
 Open `index.html` in any modern browser, or serve the folder:
